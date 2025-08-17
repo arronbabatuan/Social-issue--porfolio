@@ -29,7 +29,7 @@ h1 {
   display: flex;
 }
 
-.connect-btn {
+.contact-btn {
   display: inline-block;
   background-color: limegreen;
   color: black;
@@ -39,6 +39,7 @@ h1 {
   text-decoration: none;
   box-shadow: 0px 0px 20px #00ff00;
   margin: 15px 0;
+  
 }
 
 .contact-info {
@@ -110,4 +111,5 @@ textarea {
   border-radius: 25px;
   box-shadow: 0px 0px 15px #00ff00;
   cursor: pointer;
+  
 }
